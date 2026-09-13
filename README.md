@@ -1,4 +1,16 @@
-# Breakup demo
+# Atlas Checkout Service
 
-Bug tracker: ACME Jira board https://breakup-saas.atlassian.net/browse/ACME-3
-QA SOP: https://notion.so/qa-sop
+A small TypeScript service for checkout, authentication, and account analytics.
+
+## Development
+
+```bash
+npm install
+npm test
+```
+
+## Team links
+
+- Current QA issue: [ACME-3](https://breakup-saas.atlassian.net/browse/ACME-3)
+- [QA playbook](https://notion.so/qa-sop)
+- Deployments are coordinated in `#release`
