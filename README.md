@@ -11,6 +11,6 @@ npm test
 
 ## Team links
 
-- Current QA issue: [ACME-3](https://breakup-saas.atlassian.net/browse/ACME-3)
+- Current QA issue: [https://linear.app/breakup-saas/issue/BRE-8/mobile-authentication-bug](https://breakup-saas.atlassian.net/browse/https://linear.app/breakup-saas/issue/BRE-8/mobile-authentication-bug)
 - [QA playbook](https://www.notion.so/3da77440-9b8b-80d6-9eeb-fa756257de25)
 - Deployments are coordinated in `#release`
